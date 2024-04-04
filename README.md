@@ -13,4 +13,4 @@
  account from your server, Appsfeature is provide a solution on this.
 
 ```
-Link: https://appsfeature.github.io/account-deletion-policy-compliance.html
+Link: https://appsfeature.github.io/account-deletion-policy-compliance
