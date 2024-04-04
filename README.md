@@ -8,8 +8,9 @@
 
 #### Solution :
 ```html
+
     You need to develope a website to provide a control to the user for deleting there account
  from your server, Appsfeature is provide a solution on this.
 
-Link: https://appsfeature.github.io/account-deletion-policy-compliance.html
 ```
+Link: https://appsfeature.github.io/account-deletion-policy-compliance.html
